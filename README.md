@@ -1,2 +1,2 @@
 # awepy
-This project contains a few awesome python scripts,which is mainly to auto my os.
+This project contains a few awesome scripts,which is mainly to auto my os.
